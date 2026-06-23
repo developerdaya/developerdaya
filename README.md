@@ -65,8 +65,14 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><img src="live_echo_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp">Live Echo Mic</a></h3>
-      <p>
+      <div align="left">
+        <img src="live_echo_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
+        <h3 style="margin: 0;"><span style="color: white;">Live Echo Mic : Voice Effects</span></h3>
+        <span style="font-size: 14px; color: #00875A;">Developer-Daya</span><br/>
+        <span style="font-size: 13px; color: gray;">4.5★ • 1.32K reviews • 100K+ Downloads</span>
+        <br clear="left"/>
+      </div>
+      <p style="margin-top: 15px;">
         <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp" target="_blank">
@@ -74,8 +80,14 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk">Buddy Talk</a></h3>
-      <p>
+      <div align="left">
+        <img src="buddy_talk_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
+        <h3 style="margin: 0;"><span style="color: white;">Buddy Talk</span></h3>
+        <span style="font-size: 14px; color: #00875A;">Developer-Daya</span><br/>
+        <span style="font-size: 13px; color: gray;">?.?★ • ??? reviews • ???+ Downloads</span>
+        <br clear="left"/>
+      </div>
+      <p style="margin-top: 15px;">
         <img src="buddy_talk.png" alt="Buddy Talk" height="400"/>
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk" target="_blank">
@@ -85,8 +97,14 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><img src="koyal_fm_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp">Koyal FM: Audiobook Ki Duniya</a></h3>
-      <p>
+      <div align="left">
+        <img src="koyal_fm_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
+        <h3 style="margin: 0;"><span style="color: white;">Koyal FM: Audiobook Ki Duniya</span></h3>
+        <span style="font-size: 14px; color: #00875A;">Koyal FM</span><br/>
+        <span style="font-size: 13px; color: gray;">?.?★ • ??? reviews • ???+ Downloads</span>
+        <br clear="left"/>
+      </div>
+      <p style="margin-top: 15px;">
         <img src="koyal_fm.png" alt="Koyal FM" height="400"/>
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp" target="_blank">
@@ -94,8 +112,14 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><img src="manthan-radio-logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio">Manthan Radio-Share Your Story</a></h3>
-      <p>
+      <div align="left">
+        <img src="manthan-radio-logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
+        <h3 style="margin: 0;"><span style="color: white;">Manthan Radio-Share Your Story</span></h3>
+        <span style="font-size: 14px; color: #00875A;">Developer-Daya</span><br/>
+        <span style="font-size: 13px; color: gray;">?.?★ • ??? reviews • ???+ Downloads</span>
+        <br clear="left"/>
+      </div>
+      <p style="margin-top: 15px;">
         <img src="manthan_radio.png" alt="Manthan Radio" height="400"/>
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio" target="_blank">
