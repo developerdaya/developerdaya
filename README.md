@@ -80,7 +80,7 @@ White-label education platform supporting mock tests, PDFs and live classes.
 
 **Tech:** Firebase, Zoom SDK, REST APIs
 
-### <img src="deep_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
+### <img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
 Learn Language with strangers.
 
 **Tech:** Agora SDK, Firebase Realtime DB
