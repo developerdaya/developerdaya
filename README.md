@@ -70,7 +70,7 @@ Real-time live singing app with echo and reverb effects.
 </a>
 
 <p align="left">
-  <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
+  <img src="liveecho.png" alt="Live Echo Mic" height="400"/>
 </p>
 
 **Tech:** Oboe, Native C++, Background Services, IAP, Razorpay
