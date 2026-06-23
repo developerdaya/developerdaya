@@ -75,12 +75,7 @@ Real-time karaoke live singing app with audio effects.
 
 **Tech:** Native C++, Background Audio Services, In App Purchase
 
-### 📚 EduGorilla Exam Prep
-White-label education platform supporting mock tests, PDFs and live classes.
-
-**Tech:** Firebase, Zoom SDK, REST APIs
-
-### <img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
+### <img src="deep_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
 Learn Language with strangers.
 
 **Tech:** Agora SDK, Firebase Realtime DB
@@ -106,8 +101,16 @@ Story listening app with background playback support.
   <img src="koyal_fm.png" alt="Koyal FM" height="400"/>
 </p>
 
-### 🚖 Goochil User & Driver
-Complete taxi booking ecosystem.
+### <img src="manthan-radio-logo.png" width="30" align="top" alt="Logo"> [Manthan Radio-Share Your Story](https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio)
+Audio streaming and story sharing app.
 
-**Tech:** Google Maps, Firebase, MVVM
+**Tech:** Kotlin, ExoPlayer, Firebase
+
+<a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio" target="_blank">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+</a>
+
+<p align="left">
+  <img src="manthan_radio.png" alt="Manthan Radio" height="400"/>
+</p>
 
