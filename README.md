@@ -63,7 +63,9 @@
 # 🚀 Featured Projects
 
 ### 🎤 [Live Echo Mic](https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp)
-Real-time live singing app with echo and reverb effects.
+Real-time karaoke live singing app with audio effects.
+**Tech:** Native C++, Background Audio Services, In App Purchase
+
 
 <a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp" target="_blank">
   <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
@@ -73,7 +75,6 @@ Real-time live singing app with echo and reverb effects.
   <img src="liveecho.png" alt="Live Echo Mic" height="400"/>
 </p>
 
-**Tech:** Oboe, Native C++, Background Services, IAP, Razorpay
 
 ### 📚 EduGorilla Exam Prep
 White-label education platform supporting mock tests, PDFs and live classes.
