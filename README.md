@@ -67,8 +67,9 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="live_echo_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0;"><span style="color: white;">Live Echo Mic</span></h3>
-        <span style="font-size: 13px; color: gray;">100K+ Downloads</span>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Live Echo Mic</span></h3>
+        <span style="font-size: 14px; color: white;">100K+</span><br/>
+        <span style="font-size: 12px; color: white;">Downloads</span>
         <br clear="left"/>
       </div>
       <p style="margin-top: 15px;">
@@ -81,8 +82,9 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="buddy_talk_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0;"><span style="color: white;">Buddy Talk</span></h3>
-        <span style="font-size: 13px; color: gray;">1K+ Downloads</span>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Buddy Talk</span></h3>
+        <span style="font-size: 14px; color: white;">1K+</span><br/>
+        <span style="font-size: 12px; color: white;">Downloads</span>
         <br clear="left"/>
       </div>
       <p style="margin-top: 15px;">
@@ -97,8 +99,9 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="koyal_fm_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0;"><span style="color: white;">Koyal FM</span></h3>
-        <span style="font-size: 13px; color: gray;">100+ Downloads</span>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Koyal FM</span></h3>
+        <span style="font-size: 14px; color: white;">100+</span><br/>
+        <span style="font-size: 12px; color: white;">Downloads</span>
         <br clear="left"/>
       </div>
       <p style="margin-top: 15px;">
@@ -111,8 +114,9 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="manthan-radio-logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0;"><span style="color: white;">Manthan Radio</span></h3>
-        <span style="font-size: 13px; color: gray;">100+ Downloads</span>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Manthan Radio</span></h3>
+        <span style="font-size: 14px; color: white;">100+</span><br/>
+        <span style="font-size: 12px; color: white;">Downloads</span>
         <br clear="left"/>
       </div>
       <p style="margin-top: 15px;">
