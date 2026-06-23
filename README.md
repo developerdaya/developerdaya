@@ -75,7 +75,7 @@ Real-time karaoke live singing app with audio effects.
 
 **Tech:** Native C++, Background Audio Services, In App Purchase
 
-### <img src="deep_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
+### <img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
 Learn Language with strangers.
 
 **Tech:** Agora SDK, Firebase Realtime DB
