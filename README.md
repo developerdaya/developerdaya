@@ -62,55 +62,46 @@
 
 # 🚀 Featured Projects
 
-### <img src="live_echo_logo.png" width="30" align="top" alt="Logo"> [Live Echo Mic](https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp)
-Real-time karaoke live singing app with audio effects.
-
-<a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp" target="_blank">
-  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
-</a>
-
-<p align="left">
-  <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
-</p>
-
-**Tech:** Native C++, Background Audio Services, In App Purchase
-
-### <img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
-Learn Language with strangers.
-
-**Tech:** Agora SDK, Firebase Realtime DB
-
-<a href="https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk" target="_blank">
-  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
-</a>
-
-<p align="left">
-  <img src="buddy_talk.png" alt="Buddy Talk" height="400"/>
-</p>
-
-### <img src="koyal_fm_logo.png" width="30" align="top" alt="Logo"> [Koyal FM: Audiobook Ki Duniya](https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp)
-Story listening app with background playback support.
-
-**Tech:** MediaStyle Notification, MotionLayout
-
-<a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp" target="_blank">
-  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
-</a>
-
-<p align="left">
-  <img src="koyal_fm.png" alt="Koyal FM" height="400"/>
-</p>
-
-### <img src="manthan-radio-logo.png" width="30" align="top" alt="Logo"> [Manthan Radio-Share Your Story](https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio)
-Audio streaming and story sharing app.
-
-**Tech:** Kotlin, ExoPlayer, Firebase
-
-<a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio" target="_blank">
-  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
-</a>
-
-<p align="left">
-  <img src="manthan_radio.png" alt="Manthan Radio" height="400"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><img src="live_echo_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp">Live Echo Mic</a></h3>
+      <p>
+        <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp" target="_blank">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk">Buddy Talk</a></h3>
+      <p>
+        <img src="buddy_talk.png" alt="Buddy Talk" height="400"/>
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk" target="_blank">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><img src="koyal_fm_logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp">Koyal FM: Audiobook Ki Duniya</a></h3>
+      <p>
+        <img src="koyal_fm.png" alt="Koyal FM" height="400"/>
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp" target="_blank">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><img src="manthan-radio-logo.png" width="30" align="top" alt="Logo"> <br/> <a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio">Manthan Radio-Share Your Story</a></h3>
+      <p>
+        <img src="manthan_radio.png" alt="Manthan Radio" height="400"/>
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.developerdaya.manthan.radio" target="_blank">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
