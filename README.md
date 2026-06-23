@@ -72,7 +72,7 @@ Real-time karaoke live singing app with audio effects.
 </a>
 
 <p align="left">
-  <img src="liveecho.png" alt="Live Echo Mic" height="400"/>
+  <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
 </p>
 
 
