@@ -80,7 +80,7 @@ White-label education platform supporting mock tests, PDFs and live classes.
 
 **Tech:** Firebase, Zoom SDK, REST APIs
 
-### <img src="buddy_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
+### <img src="deep_talk_logo.png" width="30" align="top" alt="Logo"> [Buddy Talk](https://play.google.com/store/apps/details?id=com.developerdaya.deeptalk)
 Learn Language with strangers.
 
 **Tech:** Agora SDK, Firebase Realtime DB
@@ -93,10 +93,18 @@ Learn Language with strangers.
   <img src="buddy_talk.png" alt="Buddy Talk" height="400"/>
 </p>
 
-### 📻 Koyal FM
+### <img src="koyal_fm_logo.png" width="30" align="top" alt="Logo"> [Koyal FM: Audiobook Ki Duniya](https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp)
 Story listening app with background playback support.
 
 **Tech:** MediaStyle Notification, MotionLayout
+
+<a href="https://play.google.com/store/apps/details?id=com.koyalfm.koyalfmapp" target="_blank">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+</a>
+
+<p align="left">
+  <img src="koyal_fm.png" alt="Koyal FM" height="400"/>
+</p>
 
 ### 🚖 Goochil User & Driver
 Complete taxi booking ecosystem.
