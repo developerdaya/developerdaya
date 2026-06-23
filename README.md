@@ -67,7 +67,7 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="live_echo_logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Live Echo Mic</span></h3>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Live Echo</span></h3>
         <span style="font-size: 14px; color: white;">100K+</span><br/>
         <br clear="left"/>
       </div>
@@ -111,7 +111,7 @@
     <td width="50%" align="center">
       <div align="left">
         <img src="manthan-radio-logo.png" width="75" align="left" style="margin-right: 12px; border-radius: 15px;" alt="Logo">
-        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">Manthan Radio</span></h3>
+        <h3 style="margin: 0 0 5px 0;"><span style="color: white;">ManthanRadio</span></h3>
         <span style="font-size: 14px; color: white;">100+</span><br/>
         <br clear="left"/>
       </div>
