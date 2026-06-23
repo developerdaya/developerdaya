@@ -1,52 +1,31 @@
 <h1 align="center">Hi 👋, I'm Dayanand Khatik</h1>
-<h3 align="center">🚀 Senior Android Engineer | Kotlin Enthusiast | Full Stack Android Developer</h3>
-
+<h3 align="center">🚀 Senior Android Engineer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developerdaya&label=Profile%20views&color=0e75b6&style=flat" alt="developerdaya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Inventing+the+unseen,;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
+
+
 
 ---
 
 # 💫 About Me:
 
-👨‍💻 Senior Android Engineer with **5+ years** of experience building scalable, high-performance Android applications.
+👨‍💻 Full Stack Android Developer with **5+ years** of experience building scalable, high-performance Android applications. Specialized in modern architecture, clean code practices, performance optimization, and end-to-end product ownership, with expertise in Kotlin, Jetpack Compose, MVVM, and scalable mobile system design.
 
-- 🔭 Currently working as **Android Developer at Infobay.ai (EduGorilla)**
-- 📱 Delivered **20+ production apps** on Google Play Store
 - 🚀 Specialized in **Modern Android Development**
 - 🏗️ Strong advocate of **Clean Architecture, SOLID Principles & Scalable Design**
-- 👨‍🏫 Mentored junior developers and improved overall team productivity
-- 🛠️ Experienced in complete product ownership from idea to production
 - 🌱 Currently exploring **KMP, Compose Multiplatform & Backend Development**
 
-### 🏆 Highlights
-
-- 🚀 Built and delivered 20+ Android applications
-- 📈 Improved app performance by **85%**
-- 🐞 Reduced production crashes by **15%**
-- 👥 Managed Android delivery for 5000+ white-label clients
-- ⭐ Strong expertise in architecture, debugging, optimization & scaling
 
 ---
 
-# 🌐 Connect With Me:
+# 🌐 Socials:
 
 <p align="left">
-<a href="https://github.com/developerdaya" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dayanand-khatik/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:erdayanandkhatik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+  <a href="mailto:developerdaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 10px;"/></a>
+  <a href="https://www.linkedin.com/in/dayanand-khatik-7078021b5/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px;"/></a>
+  <a href="https://instagram.com/curiousdaya" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 10px;"/></a>
+  <a href="https://developerdaya.my.canva.site/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius: 10px;"/></a>
 </p>
 
 ---
@@ -56,7 +35,6 @@
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Android
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -70,7 +48,6 @@
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Paging3](https://img.shields.io/badge/Paging3-4285F4?style=for-the-badge)
 ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-000000?style=for-the-badge)
 
@@ -85,8 +62,16 @@
 
 # 🚀 Featured Projects
 
-### 🎤 Live Echo Mic
+### 🎤 [Live Echo Mic](https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp)
 Real-time live singing app with echo and reverb effects.
+
+<a href="https://play.google.com/store/apps/details?id=com.developerdaya.liveechoapp" target="_blank">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/>
+</a>
+
+<p align="left">
+  <img src="live_echo.png" alt="Live Echo Mic" height="400"/>
+</p>
 
 **Tech:** Oboe, Native C++, Background Services, IAP, Razorpay
 
@@ -110,46 +95,3 @@ Complete taxi booking ecosystem.
 
 **Tech:** Google Maps, Firebase, MVVM
 
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerdaya&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdaya&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerdaya&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=developerdaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/developerdaya/developerdaya/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> "I don't just build apps. I build products, solve business problems, and create experiences users love."
